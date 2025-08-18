@@ -9,6 +9,14 @@ __pycache__/
 .vscode/
 .idea/
 
+# Kaggle data and models
+data/
+models/
+*.csv
+*.txt
+*.h5
+*.pkl
+*.joblib
 # Logs and temp
 *.log
 *.tmp
