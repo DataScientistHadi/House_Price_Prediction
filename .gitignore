@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs and temp
+*.log
+*.tmp
