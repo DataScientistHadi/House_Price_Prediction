@@ -54,7 +54,7 @@ This project highlights end-to-end ML workflow, feature selection using LassoCV,
 - Hyperparameter tuning with Optuna for better efficiency.
 
 ## About Me
-- Name: Hadi (Data ScientistHadi)
+- Name: MohammadHadi Fard (DataScientistHadi)
 - GitHub: [github.com/DataScientistHadi](https://github.com/DataScientistHadi)
 - Email: fardmohammadhadi@gmail.com
 
