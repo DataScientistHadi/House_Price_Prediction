@@ -55,8 +55,7 @@ This project highlights end-to-end ML workflow, feature selection using LassoCV,
 
 ## About Me
 - Name: Hadi (Data ScientistHadi)
-- LinkedIn: [linkedin.com/in/yourlinkedin](https://linkedin.com/in/yourlinkedin)
 - GitHub: [github.com/DataScientistHadi](https://github.com/DataScientistHadi)
-- Email: your.email@example.com
+- Email: fardmohammadhadi@gmail.com
 
 This project is open for contributions. Feel free to fork and submit pull requests!
